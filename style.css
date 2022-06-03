@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #00995D;
+    height: 100vh;
+    color: #fff;
+}
+.opt-field{
+    display: flex;
+}
+.opt-field input{
+    width: 24px;
+    font-size: 32px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2px;
+    border: 2px solid #ffff;
+    background: #00995D;
+    font-weight: bold;
+    color: #fff;
+    outline: none;
+    transition: all 0.1s;
+}
+.opt-field input:focus{
+    border: 2px solid #012340;
+    box-shadow: 0 0 2px #4e4e4e;
+}
+.disabled{
+    opacity: 0.5;
+}
+.space{
+    margin-right: 1rem !important;
+}
