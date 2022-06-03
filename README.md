@@ -1,2 +1,2 @@
 # picpaycode
-Treinando html css e javascript fiz uma tela códeigo com o tema da picpay
+Treinando html css e javascript fiz uma tela de código com o tema picpay
